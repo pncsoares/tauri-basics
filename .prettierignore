@@ -1,0 +1,9 @@
+# Ignore artifacts:
+build
+coverage
+
+# Ignore Markdown files:
+*.md
+
+# Rust files
+target
